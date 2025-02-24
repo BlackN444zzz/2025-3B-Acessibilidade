@@ -1,2 +1,2 @@
 # 2025-3B-Acessibilidade
-Projeto em HDMI CSS voltado para acessibilidade 
+Projeto em HTML CSS voltado para acessibilidade 
